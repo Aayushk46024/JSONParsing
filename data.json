@@ -1,0 +1,15 @@
+{
+	"email":"aayushkhandelwal669@gmail.com",
+	"firstName":"Aayush",
+	"lastName":"Khandelwal",
+	"address":
+	{
+		"state":"Chandigarh",
+		"country":"India",
+		"abc":
+		{
+			"district":"Punjab",
+			"pin":141001
+		}
+	}
+}
